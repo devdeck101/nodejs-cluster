@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "description": "Our first NodeJS Cluster with ExpressJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer Deck 101",
+  "license": "ISC"
+}
